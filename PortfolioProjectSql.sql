@@ -140,3 +140,5 @@ Join PortfolioProject.. CovidVaccines vac
 where dea.continent is not null
 --order by 2,3
 
+SELECT *
+FROM PercentPopulationVaccinated
